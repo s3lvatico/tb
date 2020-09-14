@@ -1,1 +1,4 @@
 primo file
+
+sopra invece c'è una riga vuota.
+Questa modifica è in master.
